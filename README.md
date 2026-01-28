@@ -10,7 +10,7 @@ Desenvolvedor backend com foco em construção de APIs escaláveis, modelagem de
 
 ## 🎯 Sobre Mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** (USCS, 4º período) com forte interesse em arquitetura de software e desenvolvimento backend. Atualmente em **Iniciação Científica** focada em análise de dados esportivos, desenvolvendo sistema completo de coleta, processamento e visualização de dados.
+Estudante de **Análise e Desenvolvimento de Sistemas** (USCS, 5º período) com forte interesse em arquitetura de software e desenvolvimento backend. Atualmente em **Iniciação Científica** focada em análise de dados esportivos, desenvolvendo sistema completo de coleta, processamento e visualização de dados.
 
 Busco oportunidades como **desenvolvedor backend júnior** onde possa aplicar conhecimentos em **Java/Spring Boot** e contribuir com código limpo, boas práticas e soluções técnicas eficientes.
 
